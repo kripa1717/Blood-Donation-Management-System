@@ -1,4 +1,4 @@
-This project is a Blood Donation Management System developed as part of the DBMS Practical Internal Evaluation.
+This project is a Blood Donation Management System developed as part of the DBMS Final Project:
 
 The system manages:
 
